@@ -9,7 +9,7 @@ Food Pin is a simple app that shows a list of restaurants and their locations. I
 
 # Screenshots
 
-<img src="https://github.com/anditorx/FoodPin/blob/main/result.gif">
+<!-- <img src="https://github.com/anditorx/FoodPin/blob/main/result.gif"> -->
 
 ![Podcast Result](https://github.com/anditorx/FoodPin/blob/main/result.gif)
 
